@@ -44,3 +44,5 @@ plt.title('Severity vs CDR')
 plt.xlabel('CDR')
 plt.ylabel('Severity')
 plt.show()"""
+
+#End of model
